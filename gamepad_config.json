@@ -1,0 +1,19 @@
+{
+  "button_mappings": {
+    "A": "space",
+    "B": "escape",
+    "X": "return",
+    "Y": "tab",
+    "START": "f11",
+    "SELECT": "f12",
+    "LEFT_TRIGGER": "ctrl",
+    "RIGHT_TRIGGER": "shift",
+    "DPAD_UP": "up",
+    "DPAD_DOWN": "down",
+    "DPAD_LEFT": "left",
+    "DPAD_RIGHT": "right"
+  },
+  "trigger_threshold": 0.5,
+  "polling_rate": 60,
+  "auto_restart": true
+} 
